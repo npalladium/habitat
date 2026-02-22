@@ -1,1 +1,0 @@
-import{e as a,N as n,o,c,D as r}from"./Bh4stn2M.js";const l=a({__name:"journal",async setup(s){let e,t;return[e,t]=n(()=>r("/checkin",{replace:!0})),await e,t(),(_,p)=>(o(),c("div"))}});export{l as default};
